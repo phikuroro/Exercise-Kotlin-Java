@@ -1,3 +1,5 @@
+package max_number;
+
 public class MaxNumber {
   
     public static void main(String args[])
